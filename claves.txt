@@ -1,0 +1,5 @@
+admin: s.miranda@gmail.com
+clave 12345abc
+
+cliente: maria@gmail.com
+clave: 12345abc
